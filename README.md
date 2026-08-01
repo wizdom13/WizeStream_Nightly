@@ -1,6 +1,6 @@
-# NewPipe Material Nightly
+# WizeStream Nightly
 
-This repository distributes automated prerelease builds of [NewPipe Material](https://github.com/wizdom13/NewPipe_Material).
+This repository distributes automated prerelease builds of [WizeStream](https://github.com/wizdom13/WizeStream).
 
 ## Warning
 
@@ -14,5 +14,5 @@ Download the newest APK from the repository's **Releases** page. Each release in
 
 - a signed nightly APK;
 - a SHA-256 checksum;
-- the exact NewPipe Material source commit;
+- the exact WizeStream source commit;
 - the exact Pipe
