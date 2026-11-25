@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T02:32:37Z",
+  "updatedAt": "2026-11-25T02:34:08Z",
   "assets": {
     "753148553": {
       "name": "WizeStream-nightly-20261116-b616b7f-x86_64.apk",
@@ -48,7 +48,7 @@
     },
     "733802483": {
       "name": "WizeStream-nightly-20261111-d1ab88f.apk",
-      "downloads": 11
+      "downloads": 12
     },
     "729801637": {
       "name": "WizeStream-nightly-20261110-04eef69-x86_64.apk",
@@ -180,10 +180,18 @@
     },
     "785397597": {
       "name": "WizeStream-nightly-20261124-22d2c2b-x86_64.apk",
-      "downloads": 0
+      "downloads": 1
     },
     "785397595": {
       "name": "WizeStream-nightly-20261124-22d2c2b.apk",
+      "downloads": 9
+    },
+    "789751674": {
+      "name": "WizeStream-nightly-20261125-2b1750c-x86_64.apk",
+      "downloads": 0
+    },
+    "789751675": {
+      "name": "WizeStream-nightly-20261125-2b1750c.apk",
       "downloads": 0
     }
   }
